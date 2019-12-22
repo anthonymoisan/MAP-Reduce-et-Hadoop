@@ -3,7 +3,7 @@ Utilisation de Map Reduce et d'Hadoop via Python avec Hdfs3 et l'implémentation
 
 ## Pré-requis
 
-Il est nécessaire d'avoir un cluster Hadoop installé.
+Il est nécessaire d'avoir un cluster Hadoop installé. Pour la configuration python, vous pouvez utiliser le fichier requirements.txt pour créer un environnement avec les mêmes dépendances.
 Dans le cas présent, nous avons utilisé la distribution Cloudera montée sur une VM.
 
 ## Pour démarrer
